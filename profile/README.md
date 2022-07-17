@@ -3,7 +3,10 @@
 <img src="https://user-images.githubusercontent.com/90011972/179384676-06828b94-05b5-4b30-a849-0fb1e0b71fa2.jpg" width="100%"></img> 
 
 🚀 **Shipping boost** is sourcing and shipping platform developed with NodeJS for Backend development, Tailwind CSS
-for Frontend development, Nuxt.js for Frontend development, Typescript for Frontend development
+for Frontend development, Nuxt.js for Frontend development, Typescript for Frontend development and Strapi !
+
+✨ **Community**
+Get involved with a vibrant community of users and contributors. Check out what others have built with Shipping Boost
 
 For more information, see the [Discord](https://discord.gg/n9qxVXB4HD).
 
