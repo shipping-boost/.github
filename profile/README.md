@@ -2,7 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/90011972/179384676-06828b94-05b5-4b30-a849-0fb1e0b71fa2.jpg" width="100%"></img> 
 
-🚀 Shipping Boost is a professional sourcing platform for all your product researches. 
+🚀 **Shipping boost** is sourcing and shipping platform developed with NodeJS for Backend development, Tailwind CSS
+for Frontend development, Nuxt.js for Frontend development, Typescript for Frontend development
 
 
 
