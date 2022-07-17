@@ -5,6 +5,7 @@
 🚀 **Shipping boost** is sourcing and shipping platform developed with NodeJS for Backend development, Tailwind CSS
 for Frontend development, Nuxt.js for Frontend development, Typescript for Frontend development
 
+For more information, see the [Discord](https://discord.gg/n9qxVXB4HD).
 
 
 <!--
